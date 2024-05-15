@@ -129,7 +129,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/nuostatai/"
+                        href=""
                       >
                         Nuostatai
                       </a>
@@ -137,7 +137,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/veiklos-ataskaita/"
+                        href=""
                       >
                         Veiklos ataskaita ir planas
                       </a>
@@ -146,7 +146,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/administracine-informacija-viesieji-pirkimai/"
+                        href=""
                       >
                         Viešieji pirkimai
                       </a>
@@ -155,7 +155,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/darbo-uzmoketis/"
+                        href=""
                       >
                         Darbo užmokestis
                       </a>
@@ -164,7 +164,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/biudzeto-vykdymo-ataskaitu-rinkiniai/"
+                        href=""
                       >
                         Biudžeto ir finansinės ataskaitos
                       </a>
@@ -173,7 +173,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/socialiniu-paslaugu-kokybe/"
+                        href=""
                       >
                         Socialinių paslaugų kokybė
                       </a>
@@ -182,7 +182,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/administracine-informacija-korupcijos-prevencija/"
+                        href=""
                       >
                         Korupcijos prevencija
                       </a>
@@ -191,7 +191,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/tarnybiniai-automobiliai/"
+                        href=""
                       >
                         Tarnybiniai automobiliai
                       </a>
@@ -200,7 +200,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/paskatinimai-ir-apdovanojimai/"
+                        href=""
                       >
                         Paskatinimai ir apdovanojimai
                       </a>
@@ -209,7 +209,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/administracine-informacija-asmens-duomenu-apsauga/"
+                        href=""
                       >
                         Asmens duomenų apsauga
                       </a>
@@ -218,7 +218,7 @@ const administracine = () => {
                     <li className="list-item">
                       <a
                         className="items-center border-t-zinc-300 border-t-2 py-4 pl-3 pr-6 flex border-solid"
-                        href="https://www.spcentras.lt/etikos-kodeksas/"
+                        href=""
                       >
                         Aptarnavimo standartas
                       </a>
@@ -251,7 +251,7 @@ const administracine = () => {
                   <div className="bg-white rounded-md">
                     <a
                       className="items-center justify-between py-4 pl-8 pr-12 relative"
-                      href="https://www.spcentras.lt/#"
+                      href=""
                     >
                       MŪSŲ MISIJA
                       <div className="text-lime-400 items-center cursor-pointer justify-center absolute right-[0.63rem] top-[calc(50%_-_18px)] flex w-9 h-9 ml-3 border-2 border-lime-400 border-solid rounded-full font-black">
@@ -276,7 +276,7 @@ const administracine = () => {
                   <div className="bg-white mt-3.5 rounded-md">
                     <a
                       className="items-center justify-between py-4 pl-8 pr-12 relative"
-                      href="https://www.spcentras.lt/#"
+                      href=""
                     >
                       MŪSŲ VIZIJA
                       <div className="text-lime-400 items-center cursor-pointer justify-center absolute right-[0.63rem] top-[calc(50%_-_18px)] flex w-9 h-9 ml-3 border-2 border-lime-400 border-solid rounded-full font-black">
@@ -301,7 +301,7 @@ const administracine = () => {
                   <div className="bg-white mt-3.5 rounded-md">
                     <a
                       className="items-center justify-between py-4 pl-8 pr-12 relative"
-                      href="https://www.spcentras.lt/#"
+                      href=""
                     >
                       MŪSŲ VERTYBĖS
                       <div className="text-lime-400 items-center cursor-pointer justify-center absolute right-[0.63rem] top-[calc(50%_-_18px)] flex w-9 h-9 ml-3 border-2 border-lime-400 border-solid rounded-full font-black">
@@ -326,7 +326,7 @@ const administracine = () => {
                   <div className="bg-white mt-3.5 rounded-md">
                     <a
                       className="items-center justify-between py-4 pl-8 pr-12 relative"
-                      href="https://www.spcentras.lt/#"
+                      href=""
                     >
                       MŪSŲ FUNKCIJOS
                       <div className="text-lime-400 items-center cursor-pointer justify-center absolute right-[0.63rem] top-[calc(50%_-_18px)] flex w-9 h-9 ml-3 border-2 border-lime-400 border-solid rounded-full font-black">

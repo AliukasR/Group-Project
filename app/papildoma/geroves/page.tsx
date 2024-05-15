@@ -8,21 +8,21 @@ function geroves() {
           __html: `
             @media (max-width: 767px) {
               #section-1 {
-                padding-top: 30px !important;
-                padding-right: 15px !important;
-                padding-bottom: 30px !important;
-                padding-left: 15px !important;
-                height: auto !important;
+                padding-top: 30px ;
+                padding-right: 15px ;
+                padding-bottom: 30px ;
+                padding-left: 15px ;
+                height: auto ;
               }
               #div-1 {
-                width: auto !important;
-                padding-top: 0px !important;
-                padding-right: 15px !important;
-                padding-bottom: 0px !important;
-                padding-left: 15px !important;
+                width: auto ;
+                padding-top: 0px ;
+                padding-right: 15px ;
+                padding-bottom: 0px ;
+                padding-left: 15px ;
               }
               #div-2 {
-                display: none !important;
+                display: none ;
               }
             }
           `,
@@ -46,19 +46,13 @@ function geroves() {
             <div className="text-base justify-between flex" id="div-2">
               <ul className="flex list-none">
                 <li className="items-center flex h-14">
-                  <a
-                    className="items-center pr-6 flex h-14"
-                    href="https://www.spcentras.lt/"
-                  >
+                  <a className="items-center pr-6 flex h-14" href="">
                     Titulinis
                   </a>{" "}
                 </li>
                 <li className="items-center flex h-14">
                   {" "}
-                  <a
-                    className="items-center pr-6 flex h-14"
-                    href="https://www.spcentras.lt/naujienos"
-                  >
+                  <a className="items-center pr-6 flex h-14" href="">
                     Naujienos
                   </a>{" "}
                 </li>
@@ -74,38 +68,38 @@ function geroves() {
           __html: `
             @media (max-width: 767px) {
               #section-1 {
-                padding-top: 30px !important;
-                padding-right: 0px !important;
-                padding-bottom: 30px !important;
-                padding-left: 0px !important;
+                padding-top: 30px ;
+                padding-right: 0px ;
+                padding-bottom: 30px ;
+                padding-left: 0px ;
               }
               #div-1 {
-                width: auto !important;
-                padding-top: 0px !important;
-                padding-right: 15px !important;
-                padding-bottom: 0px !important;
-                padding-left: 15px !important;
+                width: auto ;
+                padding-top: 0px ;
+                padding-right: 15px ;
+                padding-bottom: 0px ;
+                padding-left: 15px ;
               }
               #div-2 {
-                flex-direction: column !important;
+                flex-direction: column ;
               }
               #div-3 {
-                margin-top: -30px !important;
-                margin-right: -15px !important;
-                margin-bottom: 25px !important;
-                margin-left: -15px !important;
-                padding: 0px !important;
+                margin-top: -30px ;
+                margin-right: -15px ;
+                margin-bottom: 25px ;
+                margin-left: -15px ;
+                padding: 0px ;
               }
               #div-4 {
-                display: none !important;
+                display: none ;
               }
               #ul-1 {
-                max-height: 0px !important;
-                overflow-x: hidden !important;
-                overflow-y: hidden !important;
+                max-height: 0px ;
+                overflow-x: hidden ;
+                overflow-y: hidden ;
               }
               #div-5 {
-                margin-bottom: 0px !important;
+                margin-bottom: 0px ;
               }
             }
           `,

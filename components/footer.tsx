@@ -8,20 +8,20 @@ export function Footer() {
           dangerouslySetInnerHTML={{
             __html: `@media (max-width: 767px) {
               #section-1 {
-                padding-top: 30px !important;
-                padding-right: 0px !important;
-                padding-bottom: 30px !important;
-                padding-left: 0px !important;
+                padding-top: 30px ;
+                padding-right: 0px ;
+                padding-bottom: 30px ;
+                padding-left: 0px ;
               }
               #div-1 {
-                width: auto !important;
-                padding-top: 0px !important;
-                padding-right: 15px !important;
-                padding-bottom: 0px !important;
-                padding-left: 15px !important;
+                width: auto ;
+                padding-top: 0px ;
+                padding-right: 15px ;
+                padding-bottom: 0px ;
+                padding-left: 15px ;
               }
               #div-2 {
-                flex-direction: column !important;
+                flex-direction: column ;
               }
             }`,
           }}

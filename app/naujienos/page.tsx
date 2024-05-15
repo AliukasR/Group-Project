@@ -211,10 +211,7 @@ const naujienos = () => {
                         Kompleksinių paslaugų centre „Šeimos slėnis“ (Žolyno g.
                         47). Būtina registracija telefonu +370 60 809 733 arba
                         el. paštu{" "}
-                        <a
-                          className="text-lime-400"
-                          href="https://www.spcentras.lt/mailto:geroves.konsultantai@vilnius.lt"
-                        >
+                        <a className="text-lime-400" href="">
                           geroves.konsultantai@vilnius.lt
                         </a>
                       </p>

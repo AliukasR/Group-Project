@@ -235,6 +235,7 @@ c-1.4,3.4-1.2,8.2-1.2,13.1v86.3H71.8c0,0,0.7-146.4,0-159.7h56.1v25.1c3.3-11,21.2
               <a
                 className="items-center py-3 px-6 text-center flex min-[767px]:p-3 min-[1023px]:p-3"
                 id="a-7"
+                href="http://localhost:3000/naujienos"
               >
                 Naujienos
               </a>
@@ -243,6 +244,7 @@ c-1.4,3.4-1.2,8.2-1.2,13.1v86.3H71.8c0,0,0.7-146.4,0-159.7h56.1v25.1c3.3-11,21.2
               <a
                 className="items-center py-3 px-6 text-center flex min-[767px]:p-3  min-[1023px]:p-3"
                 id="a-8"
+                href="http://localhost:3000/administracine-informacija"
               >
                 Administracinė informacija
               </a>

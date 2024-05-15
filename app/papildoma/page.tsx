@@ -1,6 +1,7 @@
 import React from "react"
 
 const papildoma = () => {
+  // reikejo mesti visa stiliu, o viska perdaryti su tailwind
   return (
     <>
       <div>
@@ -9,21 +10,21 @@ const papildoma = () => {
             __html: `
             @media (max-width: 767px) {
               #section-1 {
-                padding-top: 30px !important;
-                padding-right: 15px !important;
-                padding-bottom: 30px !important;
-                padding-left: 15px !important;
-                height: auto !important;
+                padding-top: 30px;
+                padding-right: 15px;
+                padding-bottom: 30px;
+                padding-left: 15px;
+                height: auto;
               }
               #div-1 {
-                width: auto !important;
-                padding-top: 0px !important;
-                padding-right: 15px !important;
-                padding-bottom: 0px !important;
-                padding-left: 15px !important;
+                width: auto;
+                padding-top: 0px;
+                padding-right: 15px;
+                padding-bottom: 0px;
+                padding-left: 15px;
               }
               #div-2 {
-                display: none !important;
+                display: none;
               }
             }
           `,
@@ -78,35 +79,35 @@ const papildoma = () => {
             __html: `
             @media (max-width: 767px) {
               #section-1 {
-                padding-top: 30px !important;
-                padding-right: 0px !important;
-                padding-bottom: 30px !important;
-                padding-left: 0px !important;
+                padding-top: 30px;
+                padding-right: 0px;
+                padding-bottom: 30px;
+                padding-left: 0px;
               }
               #div-1 {
-                width: auto !important;
-                padding-top: 0px !important;
-                padding-right: 15px !important;
-                padding-bottom: 0px !important;
-                padding-left: 15px !important;
+                width: auto;
+                padding-top: 0px;
+                padding-right: 15px;
+                padding-bottom: 0px;
+                padding-left: 15px;
               }
               #div-2 {
-                flex-direction: column !important;
+                flex-direction: column;
               }
               #div-3 {
-                margin-top: -30px !important;
-                margin-right: -15px !important;
-                margin-bottom: 25px !important;
-                margin-left: -15px !important;
-                padding: 0px !important;
+                margin-top: -30px;
+                margin-right: -15px;
+                margin-bottom: 25px;
+                margin-left: -15px;
+                padding: 0px;
               }
               #div-4 {
-                display: none !important;
+                display: none;
               }
               #ul-1 {
-                max-height: 0px !important;
-                overflow-x: hidden !important;
-                overflow-y: hidden !important;
+                max-height: 0px;
+                overflow-x: hidden;
+                overflow-y: hidden;
               }
               #div-5,
               #div-6,
@@ -114,7 +115,7 @@ const papildoma = () => {
               #div-8,
               #div-9,
               #div-10 {
-                margin-bottom: 30px !important;
+                margin-bottom: 30px;
               }
           }`,
           }}
@@ -322,10 +323,7 @@ const papildoma = () => {
                     }}
                   >
                     <div className="pb-5 mb-5" id="div-8">
-                      <a
-                        className="text-lime-400 flex overflow-hidden"
-                        href="https://www.spcentras.lt/tab5/projektine-ideja-integracija-i-darbo-rinka/"
-                      >
+                      <a className="text-lime-400 flex overflow-hidden" href="">
                         <picture className="cursor-pointer">
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_11_1648800768-03570c4f78235d0a34368b0152e7777e.webp 2x" />
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_11_1648800768-b9f7d7d796fd94ff7be671112bda4609.webp 2x" />
@@ -338,7 +336,7 @@ const papildoma = () => {
 
                       <a
                         className="text-neutral-900 text-xl font-semibold flex mt-5"
-                        href="https://www.spcentras.lt/tab5/projektine-ideja-integracija-i-darbo-rinka/"
+                        href=""
                       >
                         Projektinė idėja „Integracija į darbo rinką“
                       </a>
@@ -371,10 +369,7 @@ const papildoma = () => {
                     }}
                   >
                     <div className="pb-5 mb-5" id="div-9">
-                      <a
-                        className="text-lime-400 flex overflow-hidden"
-                        href="https://www.spcentras.lt/tab5/kompleksiniu-paslaugu-seimai-teikimas-vilniaus-mieste/"
-                      >
+                      <a className="text-lime-400 flex overflow-hidden" href="">
                         <picture className="cursor-pointer">
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_es_1630556444-e6c38db6d7394a1f36ef9f14b83c5837.webp 2x" />
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_es_1630556444-75f3e77a8cc096a975fba79a1f270286.webp 2x" />
@@ -387,7 +382,7 @@ const papildoma = () => {
 
                       <a
                         className="text-neutral-900 text-xl font-semibold flex mt-5"
-                        href="https://www.spcentras.lt/tab5/kompleksiniu-paslaugu-seimai-teikimas-vilniaus-mieste/"
+                        href=""
                       >
                         Kompleksinių paslaugų šeimai teikimas Vilniaus mieste
                       </a>
@@ -420,10 +415,7 @@ const papildoma = () => {
                     }}
                   >
                     <div className="pb-5 mb-5" id="div-10">
-                      <a
-                        className="text-lime-400 flex overflow-hidden"
-                        href="https://www.spcentras.lt/tab5/projektas-integralios-pagalbos-teikimas-vilniaus-mieste/"
-                      >
+                      <a className="text-lime-400 flex overflow-hidden" href="">
                         <picture className="cursor-pointer">
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_inte_1615811044-29288a24c47f38178c03a95bcccd3a33.webp 2x" />
                           <source srcSet="https://www.spcentras.lt/uploads/_CGSmartImage/0001_inte_1615811044-8307a5a54f91a4ef92e652b96c0754b3.webp 2x" />
@@ -436,7 +428,7 @@ const papildoma = () => {
 
                       <a
                         className="text-neutral-900 text-xl font-semibold flex mt-5"
-                        href="https://www.spcentras.lt/tab5/projektas-integralios-pagalbos-teikimas-vilniaus-mieste/"
+                        href=""
                       >
                         Projektas "Integralios pagalbos teikimas Vilniaus
                         mieste"
